@@ -1,10 +1,72 @@
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var parseDate = d3.time.format("%Y-%m-%d").parse;
+
+var x = d3.time.scale()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+var line = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.value); });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.json('./data/daily-DE-info.json', function(error, data) {
+  data.daily.forEach(function(d) {
+    d.date = parseDate(d.dt);
+    d.value = +d.value;
+  });
+
+  x.domain(d3.extent(data.daily, function(d) { return d.date; }));
+  y.domain(d3.extent(data.daily, function(d) { return d.value; }));
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      // .attr("transform", "rotate(-90)")
+      .attr("y", -6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("kWh");
+
+  svg.append("path")
+      .datum(data.daily)
+      .attr("class", "line")
+      .attr("d", line);
+});
+
+/*
+
 var margin = {top: 10, right: 10, bottom: 100, left: 40},
     margin2 = {top: 430, right: 10, bottom: 20, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom,
     height2 = 500 - margin2.top - margin2.bottom;
 
-var parseDate = d3.time.format("%b %Y").parse;
+var parseDate = d3.time.format("%Y-%m-%d").parse;
 
 var x = d3.time.scale().range([0, width]),
     x2 = d3.time.scale().range([0, width]),
@@ -21,13 +83,13 @@ var brush = d3.svg.brush()
 
 var area = d3.svg.area()
     .interpolate("monotone")
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { console.log(d.dt); return x(d.dt); })
     .y0(height)
     .y1(function(d) { return y(d.value); });
 
 var area2 = d3.svg.area()
     .interpolate("monotone")
-    .x(function(d) { return x2(d.date); })
+    .x(function(d) { return x2(d.dt); })
     .y0(height2)
     .y1(function(d) { return y2(d.value); });
 
@@ -95,3 +157,5 @@ function brushed() {
   focus.select("path").attr("d", area);
   focus.select(".x.axis").call(xAxis);
 }
+
+*/
