@@ -14,7 +14,7 @@ body {
 }
 
 .line {
-  fill: none;
+  fill: #EEEEE0;
   stroke: steelblue;
   stroke-width: 1.5px;
 }
