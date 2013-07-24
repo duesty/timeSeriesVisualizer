@@ -1,0 +1,5954 @@
+{
+  "daily": [
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-10-31",
+      "point_id": "30003",
+      "value": "0.105",
+      "value_tag": "ZEROS_OVER_3HOUR"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-14",
+      "point_id": "30003",
+      "value": "0.744",
+      "value_tag": "ZEROS_OVER_3HOUR"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-15",
+      "point_id": "30003",
+      "value": "15.752",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-16",
+      "point_id": "30003",
+      "value": "13.882",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-17",
+      "point_id": "30003",
+      "value": "15.228",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-18",
+      "point_id": "30003",
+      "value": "2.756",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-19",
+      "point_id": "30003",
+      "value": "12.433",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-20",
+      "point_id": "30003",
+      "value": "10.469",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-21",
+      "point_id": "30003",
+      "value": "14.535",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-22",
+      "point_id": "30003",
+      "value": "17.421",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-23",
+      "point_id": "30003",
+      "value": "15.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-24",
+      "point_id": "30003",
+      "value": "10.857",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-25",
+      "point_id": "30003",
+      "value": "17.133",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-26",
+      "point_id": "30003",
+      "value": "16.868",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-27",
+      "point_id": "30003",
+      "value": "16.861",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-28",
+      "point_id": "30003",
+      "value": "13.714",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-29",
+      "point_id": "30003",
+      "value": "10.128",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-11-30",
+      "point_id": "30003",
+      "value": "15.514",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-01",
+      "point_id": "30003",
+      "value": "14.295",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-02",
+      "point_id": "30003",
+      "value": "14.832",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-03",
+      "point_id": "30003",
+      "value": "16.677",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-04",
+      "point_id": "30003",
+      "value": "14.853",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-05",
+      "point_id": "30003",
+      "value": "16.716",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-06",
+      "point_id": "30003",
+      "value": "16.379",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-07",
+      "point_id": "30003",
+      "value": "16.104",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-08",
+      "point_id": "30003",
+      "value": "15.827",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-09",
+      "point_id": "30003",
+      "value": "14.819",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-10",
+      "point_id": "30003",
+      "value": "15.384",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-11",
+      "point_id": "30003",
+      "value": "7.203",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-12",
+      "point_id": "30003",
+      "value": "2.861",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-13",
+      "point_id": "30003",
+      "value": "11.089",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-14",
+      "point_id": "30003",
+      "value": "14.823",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-15",
+      "point_id": "30003",
+      "value": "10.402",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-16",
+      "point_id": "30003",
+      "value": "15.469",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-17",
+      "point_id": "30003",
+      "value": "5.136",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-18",
+      "point_id": "30003",
+      "value": "11.627",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-19",
+      "point_id": "30003",
+      "value": "8.344",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-20",
+      "point_id": "30003",
+      "value": "14.804",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-21",
+      "point_id": "30003",
+      "value": "15.514",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-22",
+      "point_id": "30003",
+      "value": "16.644",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-23",
+      "point_id": "30003",
+      "value": "16.169",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-24",
+      "point_id": "30003",
+      "value": "15.702",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-25",
+      "point_id": "30003",
+      "value": "15.64",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-26",
+      "point_id": "30003",
+      "value": "15.154",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-27",
+      "point_id": "30003",
+      "value": "15.555",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-28",
+      "point_id": "30003",
+      "value": "15.564",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-29",
+      "point_id": "30003",
+      "value": "14.472",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-30",
+      "point_id": "30003",
+      "value": "15.478",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2011-12-31",
+      "point_id": "30003",
+      "value": "14.691",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-01",
+      "point_id": "30003",
+      "value": "15.587",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-02",
+      "point_id": "30003",
+      "value": "15.764",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-03",
+      "point_id": "30003",
+      "value": "14.446",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-04",
+      "point_id": "30003",
+      "value": "15.192",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-05",
+      "point_id": "30003",
+      "value": "15.168",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-06",
+      "point_id": "30003",
+      "value": "15.371",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-07",
+      "point_id": "30003",
+      "value": "13.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-08",
+      "point_id": "30003",
+      "value": "15.611",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-09",
+      "point_id": "30003",
+      "value": "15.487",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-10",
+      "point_id": "30003",
+      "value": "15.133",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-11",
+      "point_id": "30003",
+      "value": "8.619",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-12",
+      "point_id": "30003",
+      "value": "15.281",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-13",
+      "point_id": "30003",
+      "value": "16.386",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-14",
+      "point_id": "30003",
+      "value": "7.302",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-15",
+      "point_id": "30003",
+      "value": "8.535",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-16",
+      "point_id": "30003",
+      "value": "7.274",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-17",
+      "point_id": "30003",
+      "value": "16.411",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-18",
+      "point_id": "30003",
+      "value": "17.031",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-19",
+      "point_id": "30003",
+      "value": "17.245",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-20",
+      "point_id": "30003",
+      "value": "15.347",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-21",
+      "point_id": "30003",
+      "value": "9.486",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-22",
+      "point_id": "30003",
+      "value": "12.072",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-23",
+      "point_id": "30003",
+      "value": "5.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-24",
+      "point_id": "30003",
+      "value": "16.369",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-25",
+      "point_id": "30003",
+      "value": "17.716",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-26",
+      "point_id": "30003",
+      "value": "17.892",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-27",
+      "point_id": "30003",
+      "value": "15.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-28",
+      "point_id": "30003",
+      "value": "19.05",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-29",
+      "point_id": "30003",
+      "value": "18.42",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-30",
+      "point_id": "30003",
+      "value": "15.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-01-31",
+      "point_id": "30003",
+      "value": "18.06",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-01",
+      "point_id": "30003",
+      "value": "17.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-02",
+      "point_id": "30003",
+      "value": "18.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-03",
+      "point_id": "30003",
+      "value": "19.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-04",
+      "point_id": "30003",
+      "value": "19.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-05",
+      "point_id": "30003",
+      "value": "19.56",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-06",
+      "point_id": "30003",
+      "value": "10.35",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-07",
+      "point_id": "30003",
+      "value": "4.86",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-08",
+      "point_id": "30003",
+      "value": "19.46",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-09",
+      "point_id": "30003",
+      "value": "19.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-10",
+      "point_id": "30003",
+      "value": "19.92",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-11",
+      "point_id": "30003",
+      "value": "16.72",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-12",
+      "point_id": "30003",
+      "value": "19.41",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-13",
+      "point_id": "30003",
+      "value": "11.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-14",
+      "point_id": "30003",
+      "value": "21.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-15",
+      "point_id": "30003",
+      "value": "11.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-16",
+      "point_id": "30003",
+      "value": "22.46",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-17",
+      "point_id": "30003",
+      "value": "20.93",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-18",
+      "point_id": "30003",
+      "value": "21.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-19",
+      "point_id": "30003",
+      "value": "15.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-20",
+      "point_id": "30003",
+      "value": "16.01",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-21",
+      "point_id": "30003",
+      "value": "20.38",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-22",
+      "point_id": "30003",
+      "value": "21.86",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-23",
+      "point_id": "30003",
+      "value": "22.14",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-24",
+      "point_id": "30003",
+      "value": "20.31",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-25",
+      "point_id": "30003",
+      "value": "21.39",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-26",
+      "point_id": "30003",
+      "value": "19.91",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-27",
+      "point_id": "30003",
+      "value": "10.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-28",
+      "point_id": "30003",
+      "value": "21.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-02-29",
+      "point_id": "30003",
+      "value": "21.62",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-01",
+      "point_id": "30003",
+      "value": "23.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-02",
+      "point_id": "30003",
+      "value": "24.01",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-03",
+      "point_id": "30003",
+      "value": "23.92",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-04",
+      "point_id": "30003",
+      "value": "23.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-05",
+      "point_id": "30003",
+      "value": "19.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-06",
+      "point_id": "30003",
+      "value": "12.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-07",
+      "point_id": "30003",
+      "value": "25.24",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-08",
+      "point_id": "30003",
+      "value": "24.38",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-09",
+      "point_id": "30003",
+      "value": "24.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-10",
+      "point_id": "30003",
+      "value": "24.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-11",
+      "point_id": "30003",
+      "value": "21.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-12",
+      "point_id": "30003",
+      "value": "23.03",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-13",
+      "point_id": "30003",
+      "value": "19.49",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-14",
+      "point_id": "30003",
+      "value": "25.08",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-15",
+      "point_id": "30003",
+      "value": "19.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-16",
+      "point_id": "30003",
+      "value": "10.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-17",
+      "point_id": "30003",
+      "value": "3.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-18",
+      "point_id": "30003",
+      "value": "22.54",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-19",
+      "point_id": "30003",
+      "value": "26.45",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-20",
+      "point_id": "30003",
+      "value": "26.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-21",
+      "point_id": "30003",
+      "value": "26.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-22",
+      "point_id": "30003",
+      "value": "26.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-23",
+      "point_id": "30003",
+      "value": "18.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-24",
+      "point_id": "30003",
+      "value": "20.44",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-25",
+      "point_id": "30003",
+      "value": "17.44",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-26",
+      "point_id": "30003",
+      "value": "24.27",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-27",
+      "point_id": "30003",
+      "value": "26.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-28",
+      "point_id": "30003",
+      "value": "24.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-29",
+      "point_id": "30003",
+      "value": "17.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-30",
+      "point_id": "30003",
+      "value": "21.67",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-03-31",
+      "point_id": "30003",
+      "value": "11.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-01",
+      "point_id": "30003",
+      "value": "29.09",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-02",
+      "point_id": "30003",
+      "value": "27.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-03",
+      "point_id": "30003",
+      "value": "27.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-04",
+      "point_id": "30003",
+      "value": "26.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-05",
+      "point_id": "30003",
+      "value": "25.27",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-06",
+      "point_id": "30003",
+      "value": "27.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-07",
+      "point_id": "30003",
+      "value": "28.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-08",
+      "point_id": "30003",
+      "value": "27.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-09",
+      "point_id": "30003",
+      "value": "28.46",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-10",
+      "point_id": "30003",
+      "value": "28.44",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-11",
+      "point_id": "30003",
+      "value": "23.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-12",
+      "point_id": "30003",
+      "value": "25.32",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-13",
+      "point_id": "30003",
+      "value": "10.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-14",
+      "point_id": "30003",
+      "value": "26.24",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-15",
+      "point_id": "30003",
+      "value": "29.93",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-16",
+      "point_id": "30003",
+      "value": "29.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-17",
+      "point_id": "30003",
+      "value": "29.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-18",
+      "point_id": "30003",
+      "value": "29.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-19",
+      "point_id": "30003",
+      "value": "25.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-20",
+      "point_id": "30003",
+      "value": "28.27",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-21",
+      "point_id": "30003",
+      "value": "29.06",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-22",
+      "point_id": "30003",
+      "value": "9.39",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-23",
+      "point_id": "30003",
+      "value": "9.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-24",
+      "point_id": "30003",
+      "value": "21.38",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-25",
+      "point_id": "30003",
+      "value": "18.06",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-26",
+      "point_id": "30003",
+      "value": "27.49",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-27",
+      "point_id": "30003",
+      "value": "26.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-28",
+      "point_id": "30003",
+      "value": "30.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-29",
+      "point_id": "30003",
+      "value": "26.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-04-30",
+      "point_id": "30003",
+      "value": "11.25",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-01",
+      "point_id": "30003",
+      "value": "7.41",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-02",
+      "point_id": "30003",
+      "value": "9.88",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-03",
+      "point_id": "30003",
+      "value": "19.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-04",
+      "point_id": "30003",
+      "value": "20.39",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-05",
+      "point_id": "30003",
+      "value": "29.65",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-06",
+      "point_id": "30003",
+      "value": "28.97",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-07",
+      "point_id": "30003",
+      "value": "29.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-08",
+      "point_id": "30003",
+      "value": "29.48",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-09",
+      "point_id": "30003",
+      "value": "30.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-10",
+      "point_id": "30003",
+      "value": "28.24",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-11",
+      "point_id": "30003",
+      "value": "28.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-12",
+      "point_id": "30003",
+      "value": "29.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-13",
+      "point_id": "30003",
+      "value": "26.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-14",
+      "point_id": "30003",
+      "value": "31.32",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-15",
+      "point_id": "30003",
+      "value": "29.65",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-16",
+      "point_id": "30003",
+      "value": "30.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-17",
+      "point_id": "30003",
+      "value": "31.49",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-18",
+      "point_id": "30003",
+      "value": "25.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-19",
+      "point_id": "30003",
+      "value": "26.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-20",
+      "point_id": "30003",
+      "value": "29.05",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-21",
+      "point_id": "30003",
+      "value": "28.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-22",
+      "point_id": "30003",
+      "value": "27.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-23",
+      "point_id": "30003",
+      "value": "25.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-24",
+      "point_id": "30003",
+      "value": "12.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-25",
+      "point_id": "30003",
+      "value": "20.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-26",
+      "point_id": "30003",
+      "value": "30.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-27",
+      "point_id": "30003",
+      "value": "30.01",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-28",
+      "point_id": "30003",
+      "value": "30.11",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-29",
+      "point_id": "30003",
+      "value": "31.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-30",
+      "point_id": "30003",
+      "value": "30.83",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-05-31",
+      "point_id": "30003",
+      "value": "29.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-01",
+      "point_id": "30003",
+      "value": "29.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-02",
+      "point_id": "30003",
+      "value": "26.82",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-03",
+      "point_id": "30003",
+      "value": "25.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-04",
+      "point_id": "30003",
+      "value": "11.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-05",
+      "point_id": "30003",
+      "value": "29.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-06",
+      "point_id": "30003",
+      "value": "30.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-07",
+      "point_id": "30003",
+      "value": "30.28",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-08",
+      "point_id": "30003",
+      "value": "30.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-09",
+      "point_id": "30003",
+      "value": "24.85",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-10",
+      "point_id": "30003",
+      "value": "25.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-11",
+      "point_id": "30003",
+      "value": "27.83",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-12",
+      "point_id": "30003",
+      "value": "29.68",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-13",
+      "point_id": "30003",
+      "value": "19.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-14",
+      "point_id": "30003",
+      "value": "25.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-15",
+      "point_id": "30003",
+      "value": "12.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-16",
+      "point_id": "30003",
+      "value": "26.78",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-17",
+      "point_id": "30003",
+      "value": "29.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-18",
+      "point_id": "30003",
+      "value": "27.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-19",
+      "point_id": "30003",
+      "value": "26.05",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-20",
+      "point_id": "30003",
+      "value": "30.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-21",
+      "point_id": "30003",
+      "value": "25.48",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-22",
+      "point_id": "30003",
+      "value": "28.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-23",
+      "point_id": "30003",
+      "value": "28.18",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-24",
+      "point_id": "30003",
+      "value": "30.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-25",
+      "point_id": "30003",
+      "value": "30.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-26",
+      "point_id": "30003",
+      "value": "30.46",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-27",
+      "point_id": "30003",
+      "value": "30.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-28",
+      "point_id": "30003",
+      "value": "29.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-29",
+      "point_id": "30003",
+      "value": "30.28",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-06-30",
+      "point_id": "30003",
+      "value": "29.49",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-01",
+      "point_id": "30003",
+      "value": "29.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-02",
+      "point_id": "30003",
+      "value": "27.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-03",
+      "point_id": "30003",
+      "value": "22.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-04",
+      "point_id": "30003",
+      "value": "18.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-05",
+      "point_id": "30003",
+      "value": "11.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-06",
+      "point_id": "30003",
+      "value": "25.41",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-07",
+      "point_id": "30003",
+      "value": "27.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-08",
+      "point_id": "30003",
+      "value": "28.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-09",
+      "point_id": "30003",
+      "value": "29.05",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-10",
+      "point_id": "30003",
+      "value": "27.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-11",
+      "point_id": "30003",
+      "value": "28.91",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-12",
+      "point_id": "30003",
+      "value": "8.45",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-13",
+      "point_id": "30003",
+      "value": "15.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-14",
+      "point_id": "30003",
+      "value": "25.64",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-15",
+      "point_id": "30003",
+      "value": "30.74",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-16",
+      "point_id": "30003",
+      "value": "29.18",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-17",
+      "point_id": "30003",
+      "value": "28.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-18",
+      "point_id": "30003",
+      "value": "24.94",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-19",
+      "point_id": "30003",
+      "value": "29.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-20",
+      "point_id": "30003",
+      "value": "28.89",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-21",
+      "point_id": "30003",
+      "value": "29.09",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-22",
+      "point_id": "30003",
+      "value": "28.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-23",
+      "point_id": "30003",
+      "value": "27.94",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-24",
+      "point_id": "30003",
+      "value": "26.44",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-25",
+      "point_id": "30003",
+      "value": "28.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-26",
+      "point_id": "30003",
+      "value": "29.14",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-27",
+      "point_id": "30003",
+      "value": "26.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-28",
+      "point_id": "30003",
+      "value": "30.19",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-29",
+      "point_id": "30003",
+      "value": "28.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-30",
+      "point_id": "30003",
+      "value": "28.31",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-07-31",
+      "point_id": "30003",
+      "value": "28.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-01",
+      "point_id": "30003",
+      "value": "24.51",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-02",
+      "point_id": "30003",
+      "value": "27.74",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-03",
+      "point_id": "30003",
+      "value": "24.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-04",
+      "point_id": "30003",
+      "value": "23.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-05",
+      "point_id": "30003",
+      "value": "26.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-06",
+      "point_id": "30003",
+      "value": "27.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-07",
+      "point_id": "30003",
+      "value": "26.57",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-08",
+      "point_id": "30003",
+      "value": "26.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-09",
+      "point_id": "30003",
+      "value": "26.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-10",
+      "point_id": "30003",
+      "value": "25.99",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-11",
+      "point_id": "30003",
+      "value": "25.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-12",
+      "point_id": "30003",
+      "value": "26.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-13",
+      "point_id": "30003",
+      "value": "26.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-14",
+      "point_id": "30003",
+      "value": "26.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-15",
+      "point_id": "30003",
+      "value": "23.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-16",
+      "point_id": "30003",
+      "value": "21.59",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-17",
+      "point_id": "30003",
+      "value": "22.18",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-18",
+      "point_id": "30003",
+      "value": "25.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-19",
+      "point_id": "30003",
+      "value": "25.46",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-20",
+      "point_id": "30003",
+      "value": "25.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-21",
+      "point_id": "30003",
+      "value": "25.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-22",
+      "point_id": "30003",
+      "value": "23.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-23",
+      "point_id": "30003",
+      "value": "20.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-24",
+      "point_id": "30003",
+      "value": "8.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-25",
+      "point_id": "30003",
+      "value": "21.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-26",
+      "point_id": "30003",
+      "value": "27.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-27",
+      "point_id": "30003",
+      "value": "26.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-28",
+      "point_id": "30003",
+      "value": "24.76",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-29",
+      "point_id": "30003",
+      "value": "24.68",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-30",
+      "point_id": "30003",
+      "value": "22.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-08-31",
+      "point_id": "30003",
+      "value": "25.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-01",
+      "point_id": "30003",
+      "value": "26.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-02",
+      "point_id": "30003",
+      "value": "26.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-03",
+      "point_id": "30003",
+      "value": "24.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-04",
+      "point_id": "30003",
+      "value": "23.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-05",
+      "point_id": "30003",
+      "value": "16.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-06",
+      "point_id": "30003",
+      "value": "23.68",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-07",
+      "point_id": "30003",
+      "value": "23.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-08",
+      "point_id": "30003",
+      "value": "23.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-09",
+      "point_id": "30003",
+      "value": "22.82",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-10",
+      "point_id": "30003",
+      "value": "21.94",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-11",
+      "point_id": "30003",
+      "value": "12.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-12",
+      "point_id": "30003",
+      "value": "18.14",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-13",
+      "point_id": "30003",
+      "value": "21.66",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-14",
+      "point_id": "30003",
+      "value": "22.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-15",
+      "point_id": "30003",
+      "value": "22.37",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-16",
+      "point_id": "30003",
+      "value": "22.91",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-17",
+      "point_id": "30003",
+      "value": "23.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-18",
+      "point_id": "30003",
+      "value": "22.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-19",
+      "point_id": "30003",
+      "value": "22.57",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-20",
+      "point_id": "30003",
+      "value": "22.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-21",
+      "point_id": "30003",
+      "value": "21.24",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-22",
+      "point_id": "30003",
+      "value": "18.78",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-23",
+      "point_id": "30003",
+      "value": "21.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-24",
+      "point_id": "30003",
+      "value": "21.76",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-25",
+      "point_id": "30003",
+      "value": "22.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-26",
+      "point_id": "30003",
+      "value": "20.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-27",
+      "point_id": "30003",
+      "value": "19.51",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-28",
+      "point_id": "30003",
+      "value": "20.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-29",
+      "point_id": "30003",
+      "value": "18.93",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-09-30",
+      "point_id": "30003",
+      "value": "20.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-01",
+      "point_id": "30003",
+      "value": "20.41",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-02",
+      "point_id": "30003",
+      "value": "20.26",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-03",
+      "point_id": "30003",
+      "value": "20.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-04",
+      "point_id": "30003",
+      "value": "20.56",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-05",
+      "point_id": "30003",
+      "value": "17.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-06",
+      "point_id": "30003",
+      "value": "16.01",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-07",
+      "point_id": "30003",
+      "value": "20.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-08",
+      "point_id": "30003",
+      "value": "18.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-09",
+      "point_id": "30003",
+      "value": "14.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-10",
+      "point_id": "30003",
+      "value": "19.89",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-11",
+      "point_id": "30003",
+      "value": "14.59",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-12",
+      "point_id": "30003",
+      "value": "16.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-13",
+      "point_id": "30003",
+      "value": "20.24",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-14",
+      "point_id": "30003",
+      "value": "20.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-15",
+      "point_id": "30003",
+      "value": "19.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-16",
+      "point_id": "30003",
+      "value": "19.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-17",
+      "point_id": "30003",
+      "value": "19.48",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-18",
+      "point_id": "30003",
+      "value": "12.87",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-19",
+      "point_id": "30003",
+      "value": "18.26",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-20",
+      "point_id": "30003",
+      "value": "4.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-21",
+      "point_id": "30003",
+      "value": "15.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-22",
+      "point_id": "30003",
+      "value": "18.91",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-23",
+      "point_id": "30003",
+      "value": "20.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-24",
+      "point_id": "30003",
+      "value": "19.44",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-25",
+      "point_id": "30003",
+      "value": "19.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-26",
+      "point_id": "30003",
+      "value": "18.74",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-27",
+      "point_id": "30003",
+      "value": "18.93",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-28",
+      "point_id": "30003",
+      "value": "18.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-29",
+      "point_id": "30003",
+      "value": "18.54",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-30",
+      "point_id": "30003",
+      "value": "18.27",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-10-31",
+      "point_id": "30003",
+      "value": "15.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-01",
+      "point_id": "30003",
+      "value": "12.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-02",
+      "point_id": "30003",
+      "value": "17.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-03",
+      "point_id": "30003",
+      "value": "16.94",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-04",
+      "point_id": "30003",
+      "value": "17.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-05",
+      "point_id": "30003",
+      "value": "16.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-06",
+      "point_id": "30003",
+      "value": "16.88",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-07",
+      "point_id": "30003",
+      "value": "15.03",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-08",
+      "point_id": "30003",
+      "value": "11.38",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-09",
+      "point_id": "30003",
+      "value": "17.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-10",
+      "point_id": "30003",
+      "value": "18.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-11",
+      "point_id": "30003",
+      "value": "17.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-12",
+      "point_id": "30003",
+      "value": "17.65",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-13",
+      "point_id": "30003",
+      "value": "17.23",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-14",
+      "point_id": "30003",
+      "value": "16.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-15",
+      "point_id": "30003",
+      "value": "6.71",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-16",
+      "point_id": "30003",
+      "value": "12.41",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-17",
+      "point_id": "30003",
+      "value": "11.11",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-18",
+      "point_id": "30003",
+      "value": "12.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-19",
+      "point_id": "30003",
+      "value": "15.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-20",
+      "point_id": "30003",
+      "value": "15.37",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-21",
+      "point_id": "30003",
+      "value": "13.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-22",
+      "point_id": "30003",
+      "value": "12.17",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-23",
+      "point_id": "30003",
+      "value": "12.51",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-24",
+      "point_id": "30003",
+      "value": "15.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-25",
+      "point_id": "30003",
+      "value": "14.09",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-26",
+      "point_id": "30003",
+      "value": "13.95",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-27",
+      "point_id": "30003",
+      "value": "10.48",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-28",
+      "point_id": "30003",
+      "value": "10.92",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-29",
+      "point_id": "30003",
+      "value": "4.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-11-30",
+      "point_id": "30003",
+      "value": "6.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-01",
+      "point_id": "30003",
+      "value": "7.14",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-02",
+      "point_id": "30003",
+      "value": "6.61",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-03",
+      "point_id": "30003",
+      "value": "9.72",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-04",
+      "point_id": "30003",
+      "value": "8.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-05",
+      "point_id": "30003",
+      "value": "10.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-06",
+      "point_id": "30003",
+      "value": "6.87",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-07",
+      "point_id": "30003",
+      "value": "7.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-08",
+      "point_id": "30003",
+      "value": "11.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-09",
+      "point_id": "30003",
+      "value": "14.15",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-10",
+      "point_id": "30003",
+      "value": "14.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-11",
+      "point_id": "30003",
+      "value": "14.69",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-12",
+      "point_id": "30003",
+      "value": "6.14",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-13",
+      "point_id": "30003",
+      "value": "7.83",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-14",
+      "point_id": "30003",
+      "value": "9.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-15",
+      "point_id": "30003",
+      "value": "15.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-16",
+      "point_id": "30003",
+      "value": "5.54",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-17",
+      "point_id": "30003",
+      "value": "8.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-18",
+      "point_id": "30003",
+      "value": "7.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-19",
+      "point_id": "30003",
+      "value": "16.03",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-20",
+      "point_id": "30003",
+      "value": "15.88",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-21",
+      "point_id": "30003",
+      "value": "13.42",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-22",
+      "point_id": "30003",
+      "value": "14.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-23",
+      "point_id": "30003",
+      "value": "12.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-24",
+      "point_id": "30003",
+      "value": "11.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-25",
+      "point_id": "30003",
+      "value": "6.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-26",
+      "point_id": "30003",
+      "value": "13.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-27",
+      "point_id": "30003",
+      "value": "15.88",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-28",
+      "point_id": "30003",
+      "value": "15.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-29",
+      "point_id": "30003",
+      "value": "4.71",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-30",
+      "point_id": "30003",
+      "value": "13.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2012-12-31",
+      "point_id": "30003",
+      "value": "16.04",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-01",
+      "point_id": "30003",
+      "value": "7.79",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-02",
+      "point_id": "30003",
+      "value": "16.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-03",
+      "point_id": "30003",
+      "value": "16.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-04",
+      "point_id": "30003",
+      "value": "16.34",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-05",
+      "point_id": "30003",
+      "value": "15.08",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-06",
+      "point_id": "30003",
+      "value": "12.72",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-07",
+      "point_id": "30003",
+      "value": "15.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-08",
+      "point_id": "30003",
+      "value": "16.11",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-09",
+      "point_id": "30003",
+      "value": "12.83",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-10",
+      "point_id": "30003",
+      "value": "12.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-11",
+      "point_id": "30003",
+      "value": "17.33",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-12",
+      "point_id": "30003",
+      "value": "17.39",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-13",
+      "point_id": "30003",
+      "value": "16.42",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-14",
+      "point_id": "30003",
+      "value": "17.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-15",
+      "point_id": "30003",
+      "value": "16.91",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-16",
+      "point_id": "30003",
+      "value": "16.84",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-17",
+      "point_id": "30003",
+      "value": "16.86",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-18",
+      "point_id": "30003",
+      "value": "16.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-19",
+      "point_id": "30003",
+      "value": "17.03",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-20",
+      "point_id": "30003",
+      "value": "17.26",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-21",
+      "point_id": "30003",
+      "value": "17.53",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-22",
+      "point_id": "30003",
+      "value": "14.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-23",
+      "point_id": "30003",
+      "value": "5.87",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-24",
+      "point_id": "30003",
+      "value": "7.16",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-25",
+      "point_id": "30003",
+      "value": "3.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-26",
+      "point_id": "30003",
+      "value": "6.54",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-27",
+      "point_id": "30003",
+      "value": "13.85",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-28",
+      "point_id": "30003",
+      "value": "18.18",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-29",
+      "point_id": "30003",
+      "value": "17.55",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-30",
+      "point_id": "30003",
+      "value": "18.43",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-01-31",
+      "point_id": "30003",
+      "value": "18.39",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-01",
+      "point_id": "30003",
+      "value": "17.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-02",
+      "point_id": "30003",
+      "value": "7.96",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-03",
+      "point_id": "30003",
+      "value": "16.48",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-04",
+      "point_id": "30003",
+      "value": "17.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-05",
+      "point_id": "30003",
+      "value": "3.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-06",
+      "point_id": "30003",
+      "value": "17.75",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-07",
+      "point_id": "30003",
+      "value": "13.27",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-08",
+      "point_id": "30003",
+      "value": "11.52",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-09",
+      "point_id": "30003",
+      "value": "20.32",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-10",
+      "point_id": "30003",
+      "value": "10.06",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-11",
+      "point_id": "30003",
+      "value": "20.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-12",
+      "point_id": "30003",
+      "value": "20.88",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-13",
+      "point_id": "30003",
+      "value": "20.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-14",
+      "point_id": "30003",
+      "value": "20.31",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-15",
+      "point_id": "30003",
+      "value": "18.13",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-16",
+      "point_id": "30003",
+      "value": "21.19",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-17",
+      "point_id": "30003",
+      "value": "21.86",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-18",
+      "point_id": "30003",
+      "value": "18.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-19",
+      "point_id": "30003",
+      "value": "5.21",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-20",
+      "point_id": "30003",
+      "value": "23.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-21",
+      "point_id": "30003",
+      "value": "16.42",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-22",
+      "point_id": "30003",
+      "value": "22.71",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-23",
+      "point_id": "30003",
+      "value": "22.81",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-24",
+      "point_id": "30003",
+      "value": "24.05",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-25",
+      "point_id": "30003",
+      "value": "23.19",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-26",
+      "point_id": "30003",
+      "value": "22.98",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-27",
+      "point_id": "30003",
+      "value": "22.78",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-02-28",
+      "point_id": "30003",
+      "value": "22.71",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-01",
+      "point_id": "30003",
+      "value": "22.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-02",
+      "point_id": "30003",
+      "value": "21.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-03",
+      "point_id": "30003",
+      "value": "16.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-04",
+      "point_id": "30003",
+      "value": "21.63",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-05",
+      "point_id": "30003",
+      "value": "7.15",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-06",
+      "point_id": "30003",
+      "value": "23.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-07",
+      "point_id": "30003",
+      "value": "11.87",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-08",
+      "point_id": "30003",
+      "value": "16.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-09",
+      "point_id": "30003",
+      "value": "22.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-10",
+      "point_id": "30003",
+      "value": "25.56",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-11",
+      "point_id": "30003",
+      "value": "25.22",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-12",
+      "point_id": "30003",
+      "value": "24.77",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-13",
+      "point_id": "30003",
+      "value": "24.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-14",
+      "point_id": "30003",
+      "value": "24.03",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-15",
+      "point_id": "30003",
+      "value": "23.68",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-16",
+      "point_id": "30003",
+      "value": "22.51",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-17",
+      "point_id": "30003",
+      "value": "24.69",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-18",
+      "point_id": "30003",
+      "value": "12.78",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-19",
+      "point_id": "30003",
+      "value": "18.42",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-20",
+      "point_id": "30003",
+      "value": "17.78",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-21",
+      "point_id": "30003",
+      "value": "25.51",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-22",
+      "point_id": "30003",
+      "value": "23.64",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-23",
+      "point_id": "30003",
+      "value": "23.58",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-24",
+      "point_id": "30003",
+      "value": "23.85",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-25",
+      "point_id": "30003",
+      "value": "22.01",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-26",
+      "point_id": "30003",
+      "value": "24.64",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-27",
+      "point_id": "30003",
+      "value": "23.12",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-28",
+      "point_id": "30003",
+      "value": "24.17",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-29",
+      "point_id": "30003",
+      "value": "21.02",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-30",
+      "point_id": "30003",
+      "value": "26.32",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-03-31",
+      "point_id": "30003",
+      "value": "22.29",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-01",
+      "point_id": "30003",
+      "value": "23.36",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-02",
+      "point_id": "30003",
+      "value": "22.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-03",
+      "point_id": "30003",
+      "value": "25.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-04",
+      "point_id": "30003",
+      "value": "23.57",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-05",
+      "point_id": "30003",
+      "value": "18.35",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-06",
+      "point_id": "30003",
+      "value": "21.47",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-07",
+      "point_id": "30003",
+      "value": "19.89",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-08",
+      "point_id": "30003",
+      "value": "26.18",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-09",
+      "point_id": "30003",
+      "value": "28.02",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-10",
+      "point_id": "30003",
+      "value": "27.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-11",
+      "point_id": "30003",
+      "value": "26.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-12",
+      "point_id": "30003",
+      "value": "24.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-13",
+      "point_id": "30003",
+      "value": "6.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-14",
+      "point_id": "30003",
+      "value": "14.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-15",
+      "point_id": "30003",
+      "value": "15.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-16",
+      "point_id": "30003",
+      "value": "27.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-17",
+      "point_id": "30003",
+      "value": "28.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-18",
+      "point_id": "30003",
+      "value": "28.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-19",
+      "point_id": "30003",
+      "value": "27.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-20",
+      "point_id": "30003",
+      "value": "27.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-21",
+      "point_id": "30003",
+      "value": "27.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-22",
+      "point_id": "30003",
+      "value": "27.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-23",
+      "point_id": "30003",
+      "value": "23.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-24",
+      "point_id": "30003",
+      "value": "5.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-25",
+      "point_id": "30003",
+      "value": "22.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-26",
+      "point_id": "30003",
+      "value": "28.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-27",
+      "point_id": "30003",
+      "value": "27.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-28",
+      "point_id": "30003",
+      "value": "25.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-29",
+      "point_id": "30003",
+      "value": "22.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-04-30",
+      "point_id": "30003",
+      "value": "18.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-01",
+      "point_id": "30003",
+      "value": "26.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-02",
+      "point_id": "30003",
+      "value": "27.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-03",
+      "point_id": "30003",
+      "value": "26.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-04",
+      "point_id": "30003",
+      "value": "26.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-05",
+      "point_id": "30003",
+      "value": "12.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-06",
+      "point_id": "30003",
+      "value": "17.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-07",
+      "point_id": "30003",
+      "value": "22.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-08",
+      "point_id": "30003",
+      "value": "25.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-09",
+      "point_id": "30003",
+      "value": "27.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-10",
+      "point_id": "30003",
+      "value": "29.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-11",
+      "point_id": "30003",
+      "value": "27.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-12",
+      "point_id": "30003",
+      "value": "27.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-13",
+      "point_id": "30003",
+      "value": "28.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-14",
+      "point_id": "30003",
+      "value": "29.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-15",
+      "point_id": "30003",
+      "value": "29.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-16",
+      "point_id": "30003",
+      "value": "24.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-17",
+      "point_id": "30003",
+      "value": "24.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-18",
+      "point_id": "30003",
+      "value": "26.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-19",
+      "point_id": "30003",
+      "value": "29.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-20",
+      "point_id": "30003",
+      "value": "28.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-21",
+      "point_id": "30003",
+      "value": "25.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-22",
+      "point_id": "30003",
+      "value": "25.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-23",
+      "point_id": "30003",
+      "value": "27.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-24",
+      "point_id": "30003",
+      "value": "27.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-25",
+      "point_id": "30003",
+      "value": "28.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-26",
+      "point_id": "30003",
+      "value": "29.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-27",
+      "point_id": "30003",
+      "value": "28.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-28",
+      "point_id": "30003",
+      "value": "25.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-29",
+      "point_id": "30003",
+      "value": "28.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-30",
+      "point_id": "30003",
+      "value": "28.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-05-31",
+      "point_id": "30003",
+      "value": "26.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-01",
+      "point_id": "30003",
+      "value": "24.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-02",
+      "point_id": "30003",
+      "value": "17.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-03",
+      "point_id": "30003",
+      "value": "21.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-04",
+      "point_id": "30003",
+      "value": "23.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-05",
+      "point_id": "30003",
+      "value": "25.2",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-06",
+      "point_id": "30003",
+      "value": "21.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-07",
+      "point_id": "30003",
+      "value": "22.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-08",
+      "point_id": "30003",
+      "value": "20.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-09",
+      "point_id": "30003",
+      "value": "22.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-10",
+      "point_id": "30003",
+      "value": "27.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-11",
+      "point_id": "30003",
+      "value": "25.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-12",
+      "point_id": "30003",
+      "value": "15.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-13",
+      "point_id": "30003",
+      "value": "26.3",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-14",
+      "point_id": "30003",
+      "value": "26.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-15",
+      "point_id": "30003",
+      "value": "26.5",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-16",
+      "point_id": "30003",
+      "value": "29.1",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-17",
+      "point_id": "30003",
+      "value": "27.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-18",
+      "point_id": "30003",
+      "value": "28.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-19",
+      "point_id": "30003",
+      "value": "27.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-20",
+      "point_id": "30003",
+      "value": "29.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-21",
+      "point_id": "30003",
+      "value": "29.7",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-22",
+      "point_id": "30003",
+      "value": "29.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-23",
+      "point_id": "30003",
+      "value": "23.0",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-24",
+      "point_id": "30003",
+      "value": "17.6",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-25",
+      "point_id": "30003",
+      "value": "19.8",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-26",
+      "point_id": "30003",
+      "value": "28.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-27",
+      "point_id": "30003",
+      "value": "28.4",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-28",
+      "point_id": "30003",
+      "value": "27.9",
+      "value_tag": "ACT"
+    },
+    {
+      "create_time": "2013-07-05 18:47:12",
+      "create_transaction_id": "883",
+      "de_id": "1",
+      "de_name": "kwh gen",
+      "dt": "2013-06-29",
+      "point_id": "30003",
+      "value": "26.6",
+      "value_tag": "ACT"
+    }
+  ]
+}
