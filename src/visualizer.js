@@ -19,6 +19,7 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var line = d3.svg.line()
+    .interpolate("basis-open")
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.value); });
 
