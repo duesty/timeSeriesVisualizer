@@ -19,6 +19,7 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var line = d3.svg.line()
+    .interpolate("basis-open")
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.value); });
 
@@ -37,20 +38,20 @@ d3.json('./data/daily-DE-info.json', function(error, data) {
   x.domain(d3.extent(data.daily, function(d) { return d.date; }));
   y.domain(d3.extent(data.daily, function(d) { return d.value; }));
 
-  svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+  // svg.append("g")
+  //     .attr("class", "x axis")
+  //     .attr("transform", "translate(0," + height + ")")
+  //     .call(xAxis);
 
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      // .attr("transform", "rotate(-90)")
-      .attr("y", -6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("kWh");
+  // svg.append("g")
+  //     .attr("class", "y axis")
+  //     .call(yAxis)
+  //   .append("text")
+  //     // .attr("transform", "rotate(-90)")
+  //     .attr("y", -6)
+  //     .attr("dy", ".71em")
+  //     .style("text-anchor", "end")
+  //     .text("kWh");
 
   svg.append("path")
       .datum(data.daily)
